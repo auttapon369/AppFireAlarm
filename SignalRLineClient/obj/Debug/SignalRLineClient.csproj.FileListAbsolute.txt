@@ -1,0 +1,14 @@
+C:\Project\FireAlarmControl\AppFireAlarm\SignalRLineClient\bin\Debug\SignalRLineClient.exe.config
+C:\Project\FireAlarmControl\AppFireAlarm\SignalRLineClient\bin\Debug\SignalRLineClient.exe
+C:\Project\FireAlarmControl\AppFireAlarm\SignalRLineClient\bin\Debug\SignalRLineClient.pdb
+C:\Project\FireAlarmControl\AppFireAlarm\SignalRLineClient\bin\Debug\Microsoft.AspNet.SignalR.Client.dll
+C:\Project\FireAlarmControl\AppFireAlarm\SignalRLineClient\bin\Debug\Newtonsoft.Json.dll
+C:\Project\FireAlarmControl\AppFireAlarm\SignalRLineClient\bin\Debug\Microsoft.AspNet.SignalR.Client.xml
+C:\Project\FireAlarmControl\AppFireAlarm\SignalRLineClient\bin\Debug\Newtonsoft.Json.xml
+C:\Project\FireAlarmControl\AppFireAlarm\SignalRLineClient\obj\Debug\SignalRLineClient.Properties.Resources.resources
+C:\Project\FireAlarmControl\AppFireAlarm\SignalRLineClient\obj\Debug\SignalRLineClient.csproj.GenerateResource.Cache
+C:\Project\FireAlarmControl\AppFireAlarm\SignalRLineClient\obj\Debug\SignalRLineClient.exe
+C:\Project\FireAlarmControl\AppFireAlarm\SignalRLineClient\obj\Debug\SignalRLineClient.pdb
+C:\Project\FireAlarmControl\AppFireAlarm\SignalRLineClient\bin\Debug\LineAPI.dll
+C:\Project\FireAlarmControl\AppFireAlarm\SignalRLineClient\bin\Debug\Thrift.dll
+C:\Project\FireAlarmControl\AppFireAlarm\SignalRLineClient\obj\Debug\SignalRLineClient.csprojResolveAssemblyReference.cache

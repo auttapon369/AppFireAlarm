@@ -1,0 +1,7 @@
+C:\Project\FireAlarmControl\AppFireAlarm\AppFireAlarm\bin\Debug\AppFireAlarm.exe
+C:\Project\FireAlarmControl\AppFireAlarm\AppFireAlarm\bin\Debug\AppFireAlarm.pdb
+C:\Project\FireAlarmControl\AppFireAlarm\AppFireAlarm\obj\x86\Debug\AppFireAlarm.Form1.resources
+C:\Project\FireAlarmControl\AppFireAlarm\AppFireAlarm\obj\x86\Debug\AppFireAlarm.Properties.Resources.resources
+C:\Project\FireAlarmControl\AppFireAlarm\AppFireAlarm\obj\x86\Debug\AppFireAlarm.exe
+C:\Project\FireAlarmControl\AppFireAlarm\AppFireAlarm\obj\x86\Debug\AppFireAlarm.pdb
+C:\Project\FireAlarmControl\AppFireAlarm\AppFireAlarm\obj\x86\Debug\AppFireAlarm.csproj.GenerateResource.Cache

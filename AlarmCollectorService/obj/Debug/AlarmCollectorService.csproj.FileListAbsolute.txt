@@ -1,0 +1,5 @@
+C:\Project\FireAlarmControl\AppFireAlarm\AlarmCollectorService\bin\AlarmCollectorService.dll
+C:\Project\FireAlarmControl\AppFireAlarm\AlarmCollectorService\bin\AlarmCollectorService.pdb
+C:\Project\FireAlarmControl\AppFireAlarm\AlarmCollectorService\obj\Debug\ResolveAssemblyReference.cache
+C:\Project\FireAlarmControl\AppFireAlarm\AlarmCollectorService\obj\Debug\AlarmCollectorService.dll
+C:\Project\FireAlarmControl\AppFireAlarm\AlarmCollectorService\obj\Debug\AlarmCollectorService.pdb

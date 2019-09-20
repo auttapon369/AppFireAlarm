@@ -1,0 +1,12 @@
+C:\Project\FireAlarmControl\AppFireAlarm\SignalRInserDBClient\bin\Debug\SignalRInserDBClient.exe.config
+C:\Project\FireAlarmControl\AppFireAlarm\SignalRInserDBClient\bin\Debug\SignalRInserDBClient.exe
+C:\Project\FireAlarmControl\AppFireAlarm\SignalRInserDBClient\bin\Debug\SignalRInserDBClient.pdb
+C:\Project\FireAlarmControl\AppFireAlarm\SignalRInserDBClient\bin\Debug\Microsoft.AspNet.SignalR.Client.dll
+C:\Project\FireAlarmControl\AppFireAlarm\SignalRInserDBClient\bin\Debug\Newtonsoft.Json.dll
+C:\Project\FireAlarmControl\AppFireAlarm\SignalRInserDBClient\bin\Debug\Microsoft.AspNet.SignalR.Client.xml
+C:\Project\FireAlarmControl\AppFireAlarm\SignalRInserDBClient\bin\Debug\Newtonsoft.Json.xml
+C:\Project\FireAlarmControl\AppFireAlarm\SignalRInserDBClient\obj\Debug\SignalRInserDBClient.Properties.Resources.resources
+C:\Project\FireAlarmControl\AppFireAlarm\SignalRInserDBClient\obj\Debug\SignalRInserDBClient.csproj.GenerateResource.Cache
+C:\Project\FireAlarmControl\AppFireAlarm\SignalRInserDBClient\obj\Debug\SignalRInserDBClient.exe
+C:\Project\FireAlarmControl\AppFireAlarm\SignalRInserDBClient\obj\Debug\SignalRInserDBClient.pdb
+C:\Project\FireAlarmControl\AppFireAlarm\SignalRInserDBClient\obj\Debug\SignalRInserDBClient.Form1.resources

@@ -1,0 +1,5 @@
+C:\Project\FireAlarmControl\AppFireAlarm\AlarmWcfService\bin\AlarmWcfService.dll.config
+C:\Project\FireAlarmControl\AppFireAlarm\AlarmWcfService\bin\AlarmWcfService.dll
+C:\Project\FireAlarmControl\AppFireAlarm\AlarmWcfService\bin\AlarmWcfService.pdb
+C:\Project\FireAlarmControl\AppFireAlarm\AlarmWcfService\obj\Debug\AlarmWcfService.dll
+C:\Project\FireAlarmControl\AppFireAlarm\AlarmWcfService\obj\Debug\AlarmWcfService.pdb
